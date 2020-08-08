@@ -170,15 +170,18 @@ A continuación, se detallan los requisitos funcionales que el sistema deberá i
 - Inicio de sesión para que solo puedan ingresar las personas registradas en el sistema.
 
 004. Módulo de registro
-- Opción de registro para los usuarios de la plataforma
+- Opción de registro para los Los clientes podrán hacer sus peticiones quejas o reclamos referentes al almacénusuarios de la plataforma
 
-005. Ingreso de productos
+005. Módulo de PQR (peticiones, quejas y reclamos)
+- Los clientes podrán hacer sus peticiones quejas o reclamos referentes al almacén
+
+006. Ingreso de productos
 - Registrar el ingreso de los productos que llegan por parte del proveedor al almacén
 
-006. Módulo de reporte
+007. Módulo de reporte
 - Este módulo me permite realizar reportes de la diferente información que habrá en la plataforma web
 
-007. Facturacion
+008. Facturacion
 - la plataforma debe generar una factura para ser entregada al cliente o bien podría ser electrónica y se le mandaría al correo del cliente.
 
 ## **REQUERIMIENTOS NO FUNCIONALES**

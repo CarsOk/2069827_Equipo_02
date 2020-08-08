@@ -1,7 +1,8 @@
 # actividad
 Plantilla para desarrollo de actividades
 
-[Especificacion de requerimientos](Especificacion_de_requerimientos/Especificacion_de_requerimiento.md)
+[Especificacion de requerimientos](requisitos.md)
+[Definicion](definicion.md)
 
 [Acta 1](Actas_del_proyecto/Acta1.md)
 [Acta 2](Actas_del_proyecto/Acta2.md)
